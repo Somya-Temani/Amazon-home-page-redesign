@@ -3,4 +3,4 @@ This repository contains the UI/UX design for amazon homepage created in **Figma
 <br>
 [👉 View Full Design on Figma]
 <br>
-([https://www.figma.com/file/xxxx](https://www.figma.com/design/LEJnFtrDSl6N5owAusVXz4/Amazon-Home-page-Redesign?node-id=0-1&t=IPkUXcZBEzfq59Lj-1))
+((https://www.figma.com/design/LEJnFtrDSl6N5owAusVXz4/Amazon-Home-page-Redesign?node-id=0-1&t=IPkUXcZBEzfq59Lj-1))
